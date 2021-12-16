@@ -1,0 +1,60 @@
+class InstastoryData {
+  static const List<Map<String, dynamic>> mapInstastory = [
+     {
+      'avatar': 'assets/avatars/test.png',
+      'username': 'Symplice',
+      'is_user': true,
+      'is_admin': false,
+      'is_instastory': false,
+      'is_story_seen': false,
+    },
+    {
+      'avatar': 'assets/avatars/aline.jpg',
+      'username': 'Placide',
+      'is_user': false,
+      'is_admin': true,
+      'is_instastory': true,
+      'is_story_seen': false,
+    },
+    {
+      'avatar': 'assets/avatars/player2.png',
+      'username': 'Armel',
+      'is_user': false,
+      'is_admin': false,
+      'is_instastory': true,
+      'is_story_seen': false,
+    },
+    {
+      'avatar': 'assets/avatars/player3.jpg',
+      'username': 'Nibyayo',
+      'is_user': false,
+      'is_admin': false,
+      'is_instastory': true,
+      'is_story_seen': true,
+    },
+    {
+      'avatar': 'assets/avatars/player4.jpg',
+      'username': 'Yves',
+      'is_user': false,
+      'is_admin': false,
+      'is_instastory': true,
+      'is_story_seen': true,
+    },
+    {
+      'avatar': 'assets/avatars/player3.jpg',
+      'username': 'Nibyayo',
+      'is_user': false,
+      'is_admin': false,
+      'is_instastory': true,
+      'is_story_seen': true,
+    },
+    {
+      'avatar': 'assets/avatars/player4.jpg',
+      'username': 'Yves',
+      'is_user': false,
+      'is_admin': false,
+      'is_instastory': true,
+      'is_story_seen': true,
+    },
+  ];
+}
